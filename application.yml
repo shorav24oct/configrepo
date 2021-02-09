@@ -1,0 +1,6 @@
+greeting: hello from config server
+
+db:
+  connection: connection-string-here-from-config-server
+  hostName: localhost
+  portNo: 8080
